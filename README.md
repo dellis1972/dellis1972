@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kzu</h1>
+<h1 align="center">Hi 👋, I'm dellis1972</h1>
 <h3 align="center">A .NET/C# developer from planet earth.</h3>
 Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
 
