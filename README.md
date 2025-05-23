@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dellis1972</h1>
-<h3 align="center">A .NET/C# developer from planet earth.</h3>
-Some fancy stats about my favorite hobbie (coding on GitHub, of course!):
+<h3 align="center">A .NET/C# developer from planet earth, who likes to spend some of his spare time working on Game Frameworks and Games.</h3>
+Some fancy stats about my favorite hobby (coding on GitHub, of course!):
 
 <p>
 <picture>
